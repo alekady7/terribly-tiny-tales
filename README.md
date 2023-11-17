@@ -11,19 +11,19 @@ The datacome.js component is responsible for displaying information such as foll
 ```[
     {
         "icon1": "AiOutlineStar",
-        "number1": 125
+        "number1": 203
     },
     {
         "icon2":"AiOutlineLike",
-        "number2": 134
+        "number2": 163
     },
     {
         "icon3":"AiOutlineEye",
-        "number3": 12
+        "number3": 131
     },
     {
         "icon4":"AiOutlineHeart",
-        "number4": 129
+        "number4": 67
     }
 ]
 ```
